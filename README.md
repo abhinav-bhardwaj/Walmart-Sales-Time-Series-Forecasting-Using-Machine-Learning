@@ -1,4 +1,4 @@
-﻿# Walmart Sales Time Series Forecasting
+﻿# Walmart Sales Time Series Forecasting Using Machine and Deep Learning
 ## Datasets
 
  - **train.csv** - CSV Data file containing following attributes
