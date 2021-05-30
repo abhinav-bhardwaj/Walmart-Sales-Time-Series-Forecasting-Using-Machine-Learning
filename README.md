@@ -1,4 +1,6 @@
 ﻿# Walmart Sales Time Series Forecasting Using Machine and Deep Learning
+## Blog of this Project
+## **[Walmart Sales Time Series Forecasting using Deep Learning on Medium.com](https://now-its-abhi.medium.com/walmart-sales-time-series-forecasting-using-deep-learning-e7a5d47c448b?source=friends_link&sk=60a520d4cd7960a26114d39731eabb0b)**
 ## Datasets
 **Walmart Recruiting - Store Sales Forecasting** downloaded from
 https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting
