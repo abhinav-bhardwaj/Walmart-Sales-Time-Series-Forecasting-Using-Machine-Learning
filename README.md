@@ -1,4 +1,4 @@
-﻿# Documentation
+﻿# Walmart Sales Time Series Forecasting
 ## Datasets
 
  - **train.csv** - CSV Data file containing following attributes
